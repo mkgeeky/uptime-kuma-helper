@@ -70,7 +70,7 @@ function InstallFromGit() {
     echo "For more information, please visit: https://github.com/louislam/uptime-kuma/wiki/"
     exit 1;
 }
-echo "mkgeeky's uptime-kurma install/update script"
+echo "mkgeeky's uptime-kuma install/update script"
 echo ""
 if [[ $1 == [Uu] ]];
 then {
